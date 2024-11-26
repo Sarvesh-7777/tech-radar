@@ -1,0 +1,65 @@
+{
+  "quadrants": [
+    {
+      "name": "Languages",
+      "blips": [
+        {
+          "name": "TypeScript",
+          "ring": "Adopt",
+          "isNew": true,
+          "description": "Static typing improves maintainability and scalability for large codebases."
+        }
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "blips": [
+        {
+          "name": "Next.js",
+          "ring": "Adopt",
+          "isNew": true,
+          "description": "Server-side rendering and static site generation improve performance and SEO."
+        }
+      ]
+    },
+    {
+      "name": "Tools",
+      "blips": [
+        {
+          "name": "Tailwind CSS",
+          "ring": "Trial",
+          "isNew": true,
+          "description": "Utility-first CSS framework speeds up UI development and ensures design consistency."
+        },
+        {
+          "name": "Docker",
+          "ring": "Hold",
+          "isNew": false,
+          "description": "Held as the current deployment approach with Vercel eliminates the immediate need for it."
+        }
+      ]
+    },
+    {
+      "name": "Platforms",
+      "blips": [
+        {
+          "name": "Vercel",
+          "ring": "Trial",
+          "isNew": true,
+          "description": "Serverless deployment platform with seamless Next.js integration for rapid development."
+        }
+      ]
+    },
+    {
+      "name": "Databases",
+      "blips": [
+        {
+          "name": "PostgreSQL",
+          "ring": "Assess",
+          "isNew": true,
+          "description": "Relational database evaluated for its robustness in handling eCommerce data workflows."
+        }
+      ]
+    }
+  ]
+} 
